@@ -1,8 +1,8 @@
-**### Hi 👋, I'm Vishal Firgan**
+** Hi 👋, I'm Vishal Firgan**
 ---
 
 
-## A passionate tech enthusiast from india
+ A passionate tech enthusiast from india
 
 I'm Vishal Firgan, a passionate tech enthusiast with a strong foundation in programming and web development.
 I recently graduated with degree Bachelor of Technology from Sharad Institute Of Technology College Of Engineering, Kolhapur
