@@ -1,5 +1,5 @@
-#Hi 👋, I'm Vishal Firgan
-
+**### Hi 👋, I'm Vishal Firgan**
+---
 ## A passionate tech enthusiast from india
 
 I'm Vishal Firgan, a passionate tech enthusiast with a strong foundation in programming and web development.
@@ -16,4 +16,6 @@ I recently graduated with degree Bachelor of Technology from Sharad Institute Of
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red)](mailto:vishalfirgan24@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/vishal-firgan-2440bb226/)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-red)](https://www.instagram.com/vishal_firgan/)
+
+---
 Thanks for visiting my GitHub profile! 😊
