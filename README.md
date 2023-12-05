@@ -16,7 +16,7 @@ __[ Explore my stunning portfolio :) ](https://vishalfirgan.github.io/My-Portfol
 
 Skills:
            
--  C | C++ | HTML | CSS | JAVASCRIPT | SQL | JAVA(J2SE) | OOPs 
+-  C | C++ | JAVA(J2SE) | HTML | CSS | JAVASCRIPT | SQL  | OOPs 
 
 
 ___
