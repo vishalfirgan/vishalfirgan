@@ -16,13 +16,13 @@ __[ Explore my stunning portfolio :) ](https://vishalfirgan.github.io/My-Portfol
 
 Skills:
            
--  C | C++ | JAVA | HTML | CSS | JAVASCRIPT | SQL  | OOPs 
+-   JAVA | REST API | SPRINGBOOT | HIBERNATE | JDBC | MYSQL | HTML | CSS | JAVASCRIPT | SQL  | OOPs 
 
 
 ___
 
 
-- 🔭 I’m currently working on various web development projects, honing my skills in Java, JavaScript.
+- 🔭 I’m currently working on various web development projects, honing my skills in Java, JavaScript and React.js.
 - 🌱 I’m currently learning about Java and React.js.
 - 💬 Ask me about web development, programming languages, or tech-related topics.
 - 📫 How to reach me: [vishalfirgan24@gmail.com](mailto:vishalfirgan24@gmail.com)
