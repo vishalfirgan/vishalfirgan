@@ -1,7 +1,7 @@
  __Hi 👋, I'm Vishal Firgan__
 __________________
 
-__A passionate tech enthusiast from india. results-oriented Software Developer with hands-on experience in Java, Spring Boot, and Full Stack Development. A recent Engineering graduate with practical exposure to designing and implementing robust applications.__
+__A passionate tech enthusiast from india. A results-oriented Software Developer with hands-on experience in Java, Spring Boot, and Full Stack Development. A recent Engineering graduate with practical exposure to designing and implementing robust applications.__
 
 _____________
 
