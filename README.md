@@ -5,7 +5,7 @@ __A passionate tech enthusiast from india. A results-oriented Software Developer
 
 _____________
 
-__[ Explore my stunning portfolio :) ](https://vishalfirgan.github.io/My-Portfolio/)__
+__[ Explore my stunning portfolio :) ]([https://vishalfirgan.github.io/My-Portfolio/](https://vishalfirgan.github.io/Personal-portfolio/))__
 
 
 
@@ -15,7 +15,7 @@ __[ Explore my stunning portfolio :) ](https://vishalfirgan.github.io/My-Portfol
     ___
 
     - 🔭 I’m currently working on various web development projects, honing my skills in Java, JavaScript and React.js.
-- 🌱 I’m currently learning about Java and React.js.
+- 🌱 I’m currently learning about Javascript and React.js.
 - 💬 Ask me about web development, programming languages, or tech-related topics.
 - 📫 How to reach me: [vishalfirgan24@gmail.com](mailto:vishalfirgan24@gmail.com)
 - ⚡ Fun fact: I enjoy solving problems.
@@ -23,7 +23,7 @@ __[ Explore my stunning portfolio :) ](https://vishalfirgan.github.io/My-Portfol
 
 Skills:
            
--   JAVA | REST API | SPRINGBOOT | HIBERNATE | JDBC | MYSQL | HTML | CSS | JAVASCRIPT | SQL  | OOPs
+-   JAVA | REST API | SPRINGBOOT | HIBERNATE | JDBC | MYSQL | HTML | CSS | JAVASCRIPT | SQL  | OOPs | JAVASCRIPT
 
 
 <h3 align="left">Languages and Tools:</h3>
