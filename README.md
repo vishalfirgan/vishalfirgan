@@ -3,18 +3,19 @@ __________________
 
 __A passionate tech enthusiast from india. A results-oriented Software Developer with hands-on experience in Java, Spring Boot, and Full Stack Development. A recent Engineering graduate with practical exposure to designing and implementing robust applications.__
 
-_____________
+__________________
 
-__[ Explore my stunning portfolio :) ]([https://vishalfirgan.github.io/My-Portfolio/](https://vishalfirgan.github.io/Personal-portfolio/))__
+[Explore my stunning portfolio :)](https://vishalfirgan.github.io/Personal-portfolio/)
+
 
 
 
    - I'm Vishal Firgan, a passionate tech enthusiast with a strong foundation in programming and web development.
     I recently graduated with degree Bachelor of Technology from Sharad Institute Of Technology College Of Engineering, Kolhapur
 
-    ___
-
-    - 🔭 I’m currently working on various web development projects, honing my skills in Java, JavaScript and React.js.
+__________________
+    
+- 🔭 I’m currently working on various web development projects, honing my skills in Java, JavaScript and React.js.
 - 🌱 I’m currently learning about Javascript and React.js.
 - 💬 Ask me about web development, programming languages, or tech-related topics.
 - 📫 How to reach me: [vishalfirgan24@gmail.com](mailto:vishalfirgan24@gmail.com)
